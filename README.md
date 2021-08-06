@@ -8,3 +8,6 @@ We mutated the project for applications and have already kicked off JavaScript f
 Feel free to fork or clone. Go crazy!!!
 
 Assets should be changed for personal or research study purposes. It is also copyrighted to the aforementioned firms. Please avoid cloning for commercial use, thank you. ;-})
+
+#To Run
+Download Xampp or any prefered PHP server
